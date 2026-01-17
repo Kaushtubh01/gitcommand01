@@ -11,3 +11,10 @@ git push -u origin main
 git add .
 git commit -m "comit message"
 git push
+
+#extra command 
+git branch (this is used to find list of branch)
+git branch <branch name>(used to create new branch )
+git chechkout <branch name>(used to switching branch from one to another )
+git checkout <main brach name>(used to again switch to main branch)
+git branch -d(used to delete the branch)
