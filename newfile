@@ -1,7 +1,13 @@
-command for pushing the code first time 
+#command for pushing the code first time 
 git init
 git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Kaushtubh01/gitcommand01.git
 git push -u origin main
+
+
+#command pushing code  for second time
+git add .
+git commit -m "comit message"
+git push
